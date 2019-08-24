@@ -1,0 +1,20 @@
+header{
+  background-color:  #ff6600;
+  padding: 40px; 
+  text-align:center;
+}
+h1{
+  font-size: 100px;
+  color: white;
+}
+
+header img{
+  border-radius: 150px;
+  width:300px;
+  border
+
+}
+/*<header>
+  <img src="JPEG/profile.jpg">
+  <h1>Mad Villian</h1>
+</header>
